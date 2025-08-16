@@ -1,0 +1,26 @@
+.left-form {
+    -fx-background-color: linear-gradient(to bottom right, #6C63FF, #FF6584);
+}
+
+.right-form {
+    -fx-background-color: #FAFAFA;
+}
+
+.login-btn {
+    -fx-background-color: #6C63FF;
+    -fx-text-fill: #fff;
+    -fx-background-radius: 5px;
+}
+.login-btn:hover {
+    -fx-background-color: #574b90;
+}
+
+.textfield {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #E0E0E0;
+    -fx-border-radius: 4px;
+    -fx-font-size: 13px;
+}
+.textfield:focused {
+    -fx-border-color: #6C63FF;
+}

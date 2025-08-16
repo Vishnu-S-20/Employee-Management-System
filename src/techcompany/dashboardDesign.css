@@ -1,0 +1,47 @@
+.nav-form {
+    -fx-background-color: linear-gradient(to bottom right, #6C63FF, #FF6584);
+    -fx-border-radius: 0 10 0 0;
+    -fx-background-radius: 0 10 0 0;
+}
+
+.card {
+    -fx-background-color: linear-gradient(to bottom right, #FF6584, #FF8A80);
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.add-btn {
+    -fx-background-color: #6C63FF;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #fff;
+}
+.add-btn:hover {
+    -fx-background-color: #574b90;
+}
+
+.update-btn {
+    -fx-background-color: #FF6584;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #fff;
+}
+.update-btn:hover {
+    -fx-background-color: #e94e6a;
+}
+
+.delete-btn {
+    -fx-background-color: #ff4d4d;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #fff;
+}
+.delete-btn:hover {
+    -fx-background-color: #cc0000;
+}
+
+.white-bg {
+    -fx-background-color: #FAFAFA;
+    -fx-background-radius: 8px;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: linear-gradient(to bottom right, #6C63FF, #FF6584);
+}
